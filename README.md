@@ -1,5 +1,8 @@
 # Water-Quality-Measurement
 ![Animated GIF](./eswDemo.gif)
+
+
+
 This project was made for EC3.202 Embedded Systems Workshop Monsoon '22 course.
 Its aim is to track several water quality values such as TDS, pH, turbidity etc, and act accordingly based on values such as sending an email. The dashboard allows for downloading values for a given timeframe, subscribing to water quality alerts, and shows the graphs of the values as well.
 
