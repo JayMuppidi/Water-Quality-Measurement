@@ -1,16 +1,7 @@
 # Water-Quality-Measurement
-
-Water Quality Measurement Project for EC3.202 Embedded Systems Workshop Monsoon '22
-
-- Simple website created, updates latest values directly from Thingspeak
-- Added Graphs and Permissible limits
-- Styled the website
-- Added Button to Download csv data between given two dates
-- Added form for email
-- Made Server for sending html
-- Server can receive emails and store emails
-- Server maintains log of unsafe entries
-- Nodemailer is finally working
+![Animated GIF](./eswDemo.gif)
+This project was made for EC3.202 Embedded Systems Workshop Monsoon '22 course.
+Its aim is to track several water quality values such as TDS, pH, turbidity etc, and act accordingly based on values such as sending an email. The dashboard allows for downloading values for a given timeframe, subscribing to water quality alerts, and shows the graphs of the values as well.
 
 Details
 
